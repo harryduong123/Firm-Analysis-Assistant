@@ -1,0 +1,5 @@
+{
+  "name": "Firm Analysis Assistant",
+  "description": "Provide quick overall information on a listed firm's financial status with automated analysis and visualizations.",
+  "requestFramePermissions": []
+}
