@@ -1,6 +1,7 @@
+## Run on web environment
 View the app in Google AI Studio: https://ai.studio/apps/drive/1EGyR-E3MWe32QzLY4vHCuWLshTnmSzy9
 
-## Run Locally
+## Run in local environment
 
 **Prerequisites:**  Node.js
 
